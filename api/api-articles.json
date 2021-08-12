@@ -2,15 +2,21 @@
  "data":
   [
     {
-      "url":"test.com",
+      "url":"https://thanos.savoirguinee.com/git/",
+      "Author":"rougeo",
+      "blog":"SAVOIR-GUINEE",
+      "title":"I - Git : Les bases",
+      "image_url":"https://thanos.savoirguinee.com/content/images/size/w2000/2021/03/gitbase.png",
+      "description":"Parce que le partage du code est essentiel. Parce que l'open source repose sur la communauté. Découvrez les bases de git.",
       "enabled": true
     },
     {
-      "url":"test.com",
-      "enabled": true
-    },
-    {
-      "url":"test2.com",
+      "url":"https://thanos.savoirguinee.com/git/",
+      "Author":"rougeo",
+      "blog":"SAVOIR-GUINEE",
+      "title":"I - Git : Les bases",
+      "image_url":"https://thanos.savoirguinee.com/content/images/size/w2000/2021/03/gitbase.png",
+      "description":"Parce que le partage du code est essentiel. Parce que l'open source repose sur la communauté. Découvrez les bases de git.",
       "enabled": true
     }
   ]
