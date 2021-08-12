@@ -1,0 +1,17 @@
+{
+ "data":
+  [
+    {
+      "url":"test.com",
+      "enabled": true
+    },
+    {
+      "url":"test.com",
+      "enabled": true
+    },
+    {
+      "url":"test2.com",
+      "enabled": true
+    }
+  ]
+}
