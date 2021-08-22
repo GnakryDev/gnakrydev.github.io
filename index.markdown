@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Content of this page using <abbr title="Hypertext Markup Language">HTML</abbr>.
