@@ -3,6 +3,10 @@
     {
       "url": "https://github.com/hadpro24/nimba-framework",
       "enabled": true
+    },
+    {
+      "url": "https://github.com/GnakryDev/gnakrydev.github.io",
+      "enabled": true
     }
   ]
 }
