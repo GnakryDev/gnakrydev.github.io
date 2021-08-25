@@ -1,13 +1,7 @@
 {
   "data": [
     {
-      "name": "nimba-framework",
-      "description": "Nimba is a python web framework for lazy developers, just focus on your codes.",
-      "author": "hadpro24",
       "url": "https://github.com/hadpro24/nimba-framework",
-      "labels": [
-        "framework", "web", "python"
-      ],
       "enabled": true
     }
   ]
