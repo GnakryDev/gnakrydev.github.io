@@ -1,10 +1,10 @@
 {
   "data": [
     {
-      "url": "https://thanos.savoirguinee.com/git/",
-      "title": "rougeo",
-      "type": "WebSite",
-      "description": "Parce que le partage du code est essentiel. Parce que l'open source repose sur la communauté. Découvrez les bases de git.",
+      "url": "https://www.blinkist.com/",
+      "title": "Blinkist",
+      "type": "Mobile APP",
+      "description": "Blinkist est une application mobile qui resume des livres de grand auteurs. Elle est utile pour ameliorer son anglais et aide à la culture général. Un résumé d'un livre est offert par jour",
       "labels": [
         "git", "devops"
       ],
