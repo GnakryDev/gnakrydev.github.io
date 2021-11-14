@@ -20,7 +20,6 @@ jobs:
         with:
           python-version: 3.x
       - run: python -m json.tool docs/api/api-articles.json
-      - run: python -m json.tool docs/api/api-events.json
       - run: python -m json.tool docs/api/api-mooc.json
       - run: python -m json.tool docs/api/api-open-projects.json
       - run: python -m json.tool docs/api/api-protocols.json
