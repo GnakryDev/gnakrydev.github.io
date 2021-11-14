@@ -1,0 +1,28 @@
+name: Gnakry-CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches:
+      - "**"
+  pull_request:
+    branches: [main]
+
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: python -m json.tool docs/api/api-articles.json
+      - run: python -m json.tool docs/api/api-events.json
+      - run: python -m json.tool docs/api/api-mooc.json
+      - run: python -m json.tool docs/api/api-open-projects.json
+      - run: python -m json.tool docs/api/api-protocols.json
+      - run: python -m json.tool docs/api/api-quiz.json
+      - run: python -m json.tool docs/api/api-we-love.json
