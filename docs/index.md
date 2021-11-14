@@ -2,7 +2,7 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## Application Mobile
 
 - `mkdocs new [dir-name]` - Create a new project.
 - `mkdocs serve` - Start the live-reloading docs server.
