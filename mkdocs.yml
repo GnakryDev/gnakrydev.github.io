@@ -1,0 +1,6 @@
+site_name: Gnakry-Dev
+site_url: https://gnakrydev.github.io/
+# nav:
+#     - Home: index.md
+#     - About: about.md
+theme: readthedocs
