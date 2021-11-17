@@ -29,7 +29,7 @@
       "title": "Commencer la programmation avec SPRING BATCH",
       "description": "Spring Batch est un framework open source pour le traitement par lots.",
       "labels": [
-        "springboot", "java", "spring batch"
+        "Spring Boot", "Spring Batch"
       ],
       "language": "fr",
       "enabled": true
