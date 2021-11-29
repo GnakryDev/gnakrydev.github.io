@@ -4,7 +4,7 @@
       "url": "https://www.blinkist.com/",
       "title": "Blinkist",
       "type": "Mobile APP",
-      "description": "Parfait pour améliorer votre anglais, votre culture générale.\nBlinkist résume les livres de grands auteurs pour vous faire aimer la lecture.",
+      "description": "Parfait pour améliorer votre anglais, votre culture générale.\nBlinkist résume des livres de grands auteurs pour vous faire aimer la lecture.",
       "labels": ["MobileApp", "books"],
       "enabled": true
     },
