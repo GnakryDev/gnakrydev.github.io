@@ -5,9 +5,15 @@
       "title": "Blinkist",
       "type": "Mobile APP",
       "description": "Blinkist est une application mobile qui resume des livres de grand auteurs. Elle est utile pour ameliorer son anglais et aide à la culture général. Un résumé d'un livre est offert par jour.",
-      "labels": [
-        "MobileApp", "books"
-      ],
+      "labels": ["MobileApp", "books"],
+      "enabled": true
+    },
+    {
+      "url": "https://mycake.me",
+      "title": "Cake",
+      "type": "Mobile APP",
+      "description": "Amusant, passionnant et mis à jour quotidiennement.\nCake utilise des clips courts pour simplifier l'apprentissage de l'anglais.",
+      "labels": ["MobileApp", "vidéos", "youtube"],
       "enabled": true
     }
   ]

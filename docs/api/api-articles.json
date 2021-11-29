@@ -6,31 +6,37 @@
       "blog": "SAVOIR-GUINEE",
       "title": "I - Git : Les bases",
       "description": "Parce que le partage du code est essentiel. Parce que l'open source repose sur la communauté. Découvrez les bases de git.",
-      "labels": [
-        "git", "devops"
-      ],
+      "labels": ["git", "devops"],
       "language": "fr",
       "enabled": true
-    }, {
+    },
+    {
       "url": "https://thanos.savoirguinee.com/git-gitflow/",
       "Author": "Amadoubat19",
       "blog": "SAVOIR-GUINEE",
       "title": "II - Git: Gitflow",
       "description": "Gitflow est un wrapper pour git qui est extrêmement utile pour le Devops.",
-      "labels": [
-        "git", "devops"
-      ],
+      "labels": ["git", "devops"],
       "language": "fr",
       "enabled": true
-    }, {
+    },
+    {
       "url": "https://www.kaherecode.com/tutorial/commencer-la-programmation-avec-spring-batch",
       "Author": "Mamadou Pathé DIALLO",
       "blog": "KAHERECODE",
       "title": "Commencer la programmation avec SPRING BATCH",
       "description": "Spring Batch est un framework open source pour le traitement par lots.",
-      "labels": [
-        "Spring Boot", "Spring Batch"
-      ],
+      "labels": ["Spring Boot", "Spring Batch"],
+      "language": "fr",
+      "enabled": true
+    },
+    {
+      "url": "https://debrouillonsnous.github.io/MQTT",
+      "Author": "Ousmane SOW",
+      "blog": "DEBROUILLONS-NOUS",
+      "title": "MQTT",
+      "description": "Celui qui est 93 fois plus rapide que le HTTP est le MQTT.\nC'est un protocole basé sur le  TCP/IP.\nEh bien! dans cette section on vous présente ce protocol!!!",
+      "labels": ["réseau", "protocole", "broker", "Mosquitto"],
       "language": "fr",
       "enabled": true
     }
