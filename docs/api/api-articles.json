@@ -33,10 +33,10 @@
     {
       "url": "https://debrouillonsnous.github.io/MQTT",
       "Author": "Ousmane SOW",
-      "blog": "DEBROUILLONS-NOUS",
+      "blog": "DÉBROUILLONS-NOUS",
       "title": "MQTT",
       "description": "Celui qui est 93 fois plus rapide que le HTTP est le MQTT.\nC'est un protocole basé sur le  TCP/IP.\nEh bien! dans cette section on vous présente ce protocol!!!",
-      "labels": ["réseau", "protocole", "broker", "Mosquitto"],
+      "labels": ["MQTT", "broker"],
       "language": "fr",
       "enabled": true
     }
