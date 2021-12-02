@@ -10,6 +10,11 @@
       "port": 21,
       "details": "File Transfer Protocol",
       "description": " Protocol de transfert de fichier"
+    }, {
+      "name": "HTTPS",
+      "port": 443,
+      "details": "Hypertext Transfer Protocol Secure",
+      "description": " Protocol sécurisé de HTTP"
     }
   ]
 }
