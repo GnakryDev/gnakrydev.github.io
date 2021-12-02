@@ -1,6 +1,10 @@
 site_name: Gnakry-Dev
 site_url: https://gnakrydev.github.io/
+site_description: "Documentation publique de Gnakry-Dev"
 # nav:
-#     - Home: index.md
-#     - About: about.md
+#     - Introduction: 'index.md'
+#     - 'about.md'
+#     - 'Issue Tracker': 'https://example.com/'
 theme: readthedocs
+site_author: "SAVOIR-GUINEE"
+copyright: "SAVOIR-GUINEE - 2022"

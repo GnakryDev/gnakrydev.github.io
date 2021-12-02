@@ -6,6 +6,11 @@
       "details": "Hyper Text Transfer Protocol",
       "description": " Protocol de communication utilisé pour internet et pages webs"
     }, {
+      "name": "HTTPS",
+      "port": 443,
+      "details": "Hyper Text Transfer Protocol Secure",
+      "description": " Protocol Securisé de communication utilisé pour internet et pages webs"
+    }, {
       "name": "FTP",
       "port": 21,
       "details": "File Transfer Protocol",
