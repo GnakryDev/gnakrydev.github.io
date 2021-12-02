@@ -4,7 +4,6 @@ site_description: "Documentation publique de Gnakry-Dev"
 theme: readthedocs
 site_author: "SAVOIR-GUINEE"
 copyright: "SAVOIR-GUINEE - 2022"
-repo_url: https://github.com/GnakryDev/gnakrydev.github.io
 # nav:
 #     - Introduction: 'index.md'
 #     - 'about.md'
