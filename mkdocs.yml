@@ -4,7 +4,7 @@ site_description: "Documentation publique de Gnakry-Dev"
 theme: readthedocs
 site_author: "SAVOIR-GUINEE"
 copyright: "SAVOIR-GUINEE - 2022"
-# nav:
-#     - Introduction: 'index.md'
-#     - 'about.md'
-#     - 'Issue Tracker': 'https://example.com/'
+nav:
+  - À propos: "index.md"
+  - Outils: "outils.md"
+  - Réseau scocial: "scocial.md"
