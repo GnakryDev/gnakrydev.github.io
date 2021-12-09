@@ -55,6 +55,13 @@
       "details": "Interactive Mail Access Protocol",
       "description": "Protocole qui vous permet, depuis un programme (logiciel ou application) installé en local, d’accéder à vos messages électroniques ",
       "url": "https://www.siteground.com/tutorials/email/protocols-pop3-smtp-imap/"
+    },
+    {
+      "name": "MQTT",
+      "port": 1883,
+      "details": "Message Queuing Telemetry Transport ",
+      "description": "Protocole de transfert de données ",
+      "url": "https://thanos.savoirguinee.com/mqtt/"
     }
   ]
 }
