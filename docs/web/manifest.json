@@ -1,11 +1,11 @@
 {
-    "name": "gnakrydev",
-    "short_name": "gnakrydev",
+    "name": "gnakrydevweb",
+    "short_name": "gnakrydevweb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "GnakrydevWeb",
+    "description": "GnakryDev Web",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
