@@ -39,6 +39,16 @@
       "labels": ["MQTT", "broker"],
       "language": "fr",
       "enabled": true
+    },
+    {
+      "url": "https://thanos.savoirguinee.com/cockpit",
+      "Author": "sowousmane",
+      "blog": "SAVOIR-GUINEE",
+      "title": "Cockpit",
+      "description": "Celui qui permet d'administrer son système Linux comme un chef est cockpit.\nCockpit est un outil qui permet de surveiller et d'administrer plusieurs serveurs Linux via un navigateur.",
+      "labels": ["Linux", "administration"],
+      "language": "fr",
+      "enabled": true
     }
   ]
 }
