@@ -1,31 +1,37 @@
-# Bienvenue sur Gnakry-Dev
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<div style="text-align:center">
+    <img src="/img/logo.jpeg" alt="logo" />
+    
+    <h2> Bienvenue sur Gnakry-Dev</h2>
+</div>
 
-## Application Mobile
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+Une plateforme pour développeurs(ses), ici vous apprenez et vous enseigner en même temps.  
 
-## Project layout
+Dans cette application, vous trouverez :  
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+-  Vous avez des tutoriels écris par des informaticiens de tous les coins.  
 
-# Fonctionnement
+-  Vous avez des références d'applications utiles pour étudier l'anglais et d'autres technologies.  
+-  Vous avez une session réservée au monitoring avec Docker de vos containers et/ou votre site.  
+-  Vous avez des projets open sources où vous pouvez contribuer.
+- Vous avez la possibilité de recevoir vos notifications CI/CD.
+- Vous avez la possibilité de rejoindre notre communauté sur Reddit où vous avez accès à des posts, des commentaires et beaucoup d'autres choses sympa!!
 
-## Project layout
+<div style='display: none'> 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-## Articles
-## We love
-## projet open source
+    ## Articles
+
+    ## We love
+
+    ## projets open source
+
+    ## Docker informations
+
+    ## Notifications
+
+    ## Reddit notre communauté
+</div>
 ## Contributeurs
+
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=GnakryDev/gnakrydev.github.io)
