@@ -25,3 +25,4 @@ jobs:
       - run: python -m json.tool docs/api/api-protocols.json
       - run: python -m json.tool docs/api/api-quiz.json
       - run: python -m json.tool docs/api/api-we-love.json
+      - run: python -m json.tool docs/api/api-forum-group.json
