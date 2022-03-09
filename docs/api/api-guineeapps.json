@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "package_name": "com.savoirguinee.gnakrydev",
+      "enabled": true
+    },
+    {
+      "package_name": "com.jeregale.app",
+      "enabled": true
+    }
+  ]
+}
