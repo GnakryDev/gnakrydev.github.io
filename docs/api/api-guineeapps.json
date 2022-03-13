@@ -2,10 +2,12 @@
   "data": [
     {
       "package_name": "com.savoirguinee.gnakrydev",
+      "author": "rougeo",
       "enabled": true
     },
     {
       "package_name": "com.jeregale.app",
+      "author": "",
       "enabled": true
     }
   ]
