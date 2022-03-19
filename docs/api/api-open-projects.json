@@ -3,7 +3,7 @@
     {
       "url": "https://github.com/GnakryDev/gnakry-auth-server",
       "enabled": true
-    },    
+    },
     {
       "url": "https://github.com/hadpro24/nimba-framework",
       "enabled": true
@@ -18,6 +18,10 @@
     },
     {
       "url": "https://github.com/pathus90/om4j",
+      "enabled": true
+    },
+    {
+      "url": "https://github.com/mixn/carbon-now-cli",
       "enabled": true
     }
   ]
