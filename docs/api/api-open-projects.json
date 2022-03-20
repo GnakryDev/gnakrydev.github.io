@@ -1,6 +1,10 @@
 {
   "data": [
     {
+      "url": "https://github.com/sowousmane/DevOps-tools",
+      "enabled": true
+    },
+    {
       "url": "https://github.com/GnakryDev/gnakry-auth-server",
       "enabled": true
     },
