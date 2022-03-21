@@ -5,6 +5,10 @@
       "enabled": true
     },
     {
+      "url": "https://github.com/veggiemonk/awesome-docker",
+      "enabled": true
+    },
+    {
       "url": "https://github.com/GnakryDev/gnakry-auth-server",
       "enabled": true
     },
