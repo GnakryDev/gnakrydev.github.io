@@ -13,6 +13,10 @@
       "enabled": true
     },
     {
+      "url": "https://github.com/anderspitman/awesome-tunneling",
+      "enabled": true
+    },
+    {
       "url": "https://github.com/GnakryDev/gnakry-auth-server",
       "enabled": true
     },
