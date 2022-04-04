@@ -25,6 +25,10 @@
       "enabled": true
     },
     {
+      "url": "https://github.com/Lissy93/personal-security-checklist",
+      "enabled": true
+    },
+    {
       "url": "https://github.com/hadpro24/django-forms-fieldset",
       "enabled": true
     },
