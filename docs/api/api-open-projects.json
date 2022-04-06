@@ -9,6 +9,10 @@
       "enabled": true
     },
     {
+      "url": "https://github.com/weaveworks/awesome-gitops",
+      "enabled": true
+    },
+    {
       "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
       "enabled": true
     },
