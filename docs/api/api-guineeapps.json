@@ -6,8 +6,13 @@
       "enabled": true
     },
     {
+      "package_name": "com.savoirguinee.guineeapps",
+      "author": "rougeo",
+      "enabled": true
+    },
+    {
       "package_name": "com.jeregale.app",
-      "author": "",
+      "author": "N/A",
       "enabled": true
     }
   ]
