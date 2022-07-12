@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "url": "https://www.blinkist.com/",
+      "title": "Blinkist",
+      "type": "Mobile APP",
+      "description": "Parfait pour améliorer votre anglais, votre culture générale.\nBlinkist résume des livres de grands auteurs pour vous faire aimer la lecture.",
+      "labels": ["MobileApp","Anglais", "Books"],
+      "enabled": true
+    },
+    {
+      "url": "https://mycake.me",
+      "title": "Cake",
+      "type": "Mobile APP",
+      "description": "Amusant, passionnant et mis à jour quotidiennement.\nCake utilise des vidéos courtes pour simplifier l'apprentissage de l'anglais.",
+      "labels": ["MobileApp","Anglais", "Youtube"],
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "url": "https://github.com/GnakryDev/gnakrydev-cli",
+      "enabled": true
+    },
+    {
+      "url": "https://github.com/sowousmane/DevOps-tools",
+      "enabled": true
+    },
+    {
+      "url": "https://github.com/public-apis/public-apis",
+      "enabled": true
+    },
+    {
+      "url": "https://github.com/veggiemonk/awesome-docker",
+      "enabled": true
+    },
+    {
+      "url": "https://github.com/weaveworks/awesome-gitops",
+      "enabled": true
+    },
+    {
+      "url": "https://github.com/Tecnativa/docker-socket-proxy",
+      "enabled": true
+    },
+    {
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "enabled": true
+    },
+    {
+      "url": "https://github.com/anderspitman/awesome-tunneling",
+      "enabled": true
+    },
+    {
+      "url": "https://github.com/GnakryDev/gnakry-auth-server",
+      "enabled": true
+    },
+    {
+      "url": "https://github.com/hadpro24/nimba-framework",
+      "enabled": true
+    },
+    {
+      "url": "https://github.com/Lissy93/personal-security-checklist",
+      "enabled": true
+    },
+    {
+      "url": "https://github.com/hadpro24/django-forms-fieldset",
+      "enabled": true
+    },
+    {
+      "url": "https://github.com/GnakryDev/gnakrydev.github.io",
+      "enabled": true
+    },
+    {
+      "url": "https://github.com/pathus90/om4j",
+      "enabled": true
+    },
+    {
+      "url": "https://github.com/mixn/carbon-now-cli",
+      "enabled": true
+    }
+  ]
+}

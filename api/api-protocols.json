@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "name": "HTTP",
+      "port": 80,
+      "details": "Hyper Text Transfer Protocol",
+      "description": " Protocol de communication utilisé pour internet et pages webs",
+      "url": "N/A"
+    },
+    {
+      "name": "HTTPS",
+      "port": 443,
+      "details": "Hyper Text Transfer Protocol Secure",
+      "description": " Protocol Securisé de communication utilisé pour internet et pages webs",
+      "url": "N/A"
+    },
+    {
+      "name": "FTP",
+      "port": 21,
+      "details": "File Transfer Protocol",
+      "description": " Protocol de transfert de fichier",
+      "url": "N/A"
+    },
+    {
+      "name": "SSH",
+      "port": 22,
+      "details": "Secure Shell",
+      "description": " Protocol sécurisé qui permet d’accéder à un ordinateur via un réseau non sécurisé, permet deplacer des fichiers,...",
+      "url": "N/A"
+    },
+    {
+      "name": "SSL",
+      "port": 465,
+      "details": "Secure Sockets Layer",
+      "description": " Protocol qui permet de chiffrer les données allant d’un client à un serveur ",
+      "url": "N/A"
+    },
+    {
+      "name": "SMTP",
+      "port": 587,
+      "details": "Simple Mail Transfer Protocol",
+      "description": " Protocol d'envoie et de reception de courrier électronique .",
+      "url": "https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol"
+    },
+    {
+      "name": "POP3",
+      "port": 110,
+      "details": "Post Office Protocol 3,",
+      "description": " Protocol qui permet de recevoir des e-mails d'un serveur distant et les envoyer à un client local",
+      "url": "https://whatis.techtarget.com/definition/POP3-Post-Office-Protocol-3"
+    },
+    {
+      "name": "IMAP",
+      "port": 143,
+      "details": "Interactive Mail Access Protocol",
+      "description": "Protocole qui vous permet, depuis un programme (logiciel ou application) installé en local, d’accéder à vos messages électroniques ",
+      "url": "https://www.siteground.com/tutorials/email/protocols-pop3-smtp-imap/"
+    },
+    {
+      "name": "MQTT",
+      "port": 1883,
+      "details": "Message Queuing Telemetry Transport ",
+      "description": "Protocole de transfert de données ",
+      "url": "https://thanos.savoirguinee.com/mqtt/"
+    }
+  ]
+}
