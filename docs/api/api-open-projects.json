@@ -9,6 +9,10 @@
       "enabled": true
     },
     {
+      "url": "https://github.com/public-apis/public-apis",
+      "enabled": true
+    },
+    {
       "url": "https://github.com/veggiemonk/awesome-docker",
       "enabled": true
     },
